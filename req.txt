@@ -1,0 +1,6 @@
+streamlit
+pdfminer.six
+openai
+python-dotenv
+Groq
+fpdf
